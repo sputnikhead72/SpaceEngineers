@@ -59,6 +59,52 @@
     <Compile Include="PowerManagement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\HavokWrapper.dll" />
+    <Content Include="bin\Debug\HavokWrapper.xml" />
+    <Content Include="bin\Debug\InfinarioSDK.dll" />
+    <Content Include="bin\Debug\Sandbox.Common.dll" />
+    <Content Include="bin\Debug\Sandbox.Common.xml" />
+    <Content Include="bin\Debug\Sandbox.Game.dll" />
+    <Content Include="bin\Debug\Sandbox.Graphics.dll" />
+    <Content Include="bin\Debug\SharpDX.Desktop.dll" />
+    <Content Include="bin\Debug\SharpDX.Desktop.xml" />
+    <Content Include="bin\Debug\SharpDX.Direct2D1.dll" />
+    <Content Include="bin\Debug\SharpDX.Direct2D1.xml" />
+    <Content Include="bin\Debug\SharpDX.Direct3D11.dll" />
+    <Content Include="bin\Debug\SharpDX.Direct3D11.xml" />
+    <Content Include="bin\Debug\SharpDX.DirectInput.dll" />
+    <Content Include="bin\Debug\SharpDX.DirectInput.xml" />
+    <Content Include="bin\Debug\SharpDX.dll" />
+    <Content Include="bin\Debug\SharpDX.DXGI.dll" />
+    <Content Include="bin\Debug\SharpDX.DXGI.xml" />
+    <Content Include="bin\Debug\SharpDX.Mathematics.dll" />
+    <Content Include="bin\Debug\SharpDX.Mathematics.xml" />
+    <Content Include="bin\Debug\SharpDX.Toolkit.dll" />
+    <Content Include="bin\Debug\SharpDX.Toolkit.xml" />
+    <Content Include="bin\Debug\SharpDX.XAudio2.dll" />
+    <Content Include="bin\Debug\SharpDX.XAudio2.xml" />
+    <Content Include="bin\Debug\SharpDX.xml" />
+    <Content Include="bin\Debug\SpaceEngineers.dll" />
+    <Content Include="bin\Debug\SpaceEngineers.Game.dll" />
+    <Content Include="bin\Debug\SpaceEngineers.ObjectBuilders.dll" />
+    <Content Include="bin\Debug\SpaceEngineers.ObjectBuilders.XmlSerializers.dll" />
+    <Content Include="bin\Debug\SpaceEngineers.pdb" />
+    <Content Include="bin\Debug\SteamSDK.dll" />
+    <Content Include="bin\Debug\VRage.Audio.dll" />
+    <Content Include="bin\Debug\VRage.dll" />
+    <Content Include="bin\Debug\VRage.Game.dll" />
+    <Content Include="bin\Debug\VRage.Game.xml" />
+    <Content Include="bin\Debug\VRage.Game.XmlSerializers.dll" />
+    <Content Include="bin\Debug\VRage.Input.dll" />
+    <Content Include="bin\Debug\VRage.Library.dll" />
+    <Content Include="bin\Debug\VRage.Library.xml" />
+    <Content Include="bin\Debug\VRage.Math.dll" />
+    <Content Include="bin\Debug\VRage.Math.xml" />
+    <Content Include="bin\Debug\VRage.Native.dll" />
+    <Content Include="bin\Debug\VRage.OpenVRWrapper.dll" />
+    <Content Include="bin\Debug\VRage.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
